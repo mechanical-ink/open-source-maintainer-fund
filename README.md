@@ -1,37 +1,13 @@
-# CNCF Project Template Repository
+# Mechanical Ink Open Source Maintainer Fund
 
-This is a [template repository][template-repo] for CNCF projects created by [CNCF SIG Contributor
-Strategy][contrib-strat]. You can use it to either start a new repository that
-has all the required files for a CNCF project or just grab the particular files
-that you need.
+The Mechanical Ink Open Source Maintainer Fund is a dedicated initiative aimed at providing financial support to open-source maintainers and projects. As part of our commitment to the open source community, Mechanical Ink pledges to contribute 1% of all our company's earnings to this fund on a monthly basis.
 
-## Steps
+The fund's primary objective is to identify and assist maintainers and projects that play a crucial role in the wider open source, business, and tech ecosystem, ensuring their sustainability and continued contributions. We aim to raise sufficient funds to launch impactful initiatives that directly benefit the maintainers and projects needing support.
 
-1. Click **Use this template** and create a copy of this repository.
+Mechanical Ink, a recognized and trusted entity in the industry, is proud to spearhead this effort. We believe in the importance of open source and its positive impact on innovation and collaboration. By driving the Mechanical Ink Open Source Maintainer Fund, we aim to foster a thriving open-source community that is resilient, inclusive, and sustainable.
 
-    ![Green button that says "Use this template"](https://user-images.githubusercontent.com/1368985/95903529-e9c32f00-0d5b-11eb-8723-4369f7c9e044.png)
-1. Remove **.github/settings.yml**. This is not a template and contains
-   configuration specific our repository. You should not keep this file.
-1. Customize every [required template](#required-templates) and address each TODO item.
+We invite you to join us in this endeavor as we work together to empower the maintainers and projects that fuel the open-source ecosystem. Together, we can make a meaningful difference and ensure the long-term success of the open-source ecosystem. More importantly, we can ensure those working in the open-source space can thrive and not merely survive.
 
-### Customize Templates
+> **Note:** It is still early days (June 15, 2023), so please stay tuned for news as we grow the fund.
 
-Each file is a template with instructions to customize the contents for your project.
-Most files use comments with TODO to call out where you need to make changes. We recommend
-viewing the files in raw or text form so that you can see the comments. 
-
-For example in markdown files, we use `<!-- TODO: ... -->` to provide additional
-guidance or indicate where action is required but you won't see those comments
-when you view the markdown file in GitHub unless you view the raw text.
-
-## Required Templates
-
-* [LICENSE](LICENSE)
-* [CONTRIBUTING.md](CONTRIBUTING.md)
-* [README-template.md](README-template.md)
-
-[template-repo]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
-[contrib-strat]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md
-
-Note: This is the README file for the templates repo. Please use [README-template.md](README-template.md)
-as a template for your project README.
+- [Open Collective](https://opencollective.com/mi-os-maintainer-fund)
